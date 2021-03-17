@@ -1,15 +1,15 @@
 {
-  "name": "tester",
+  "name": "linky",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://dennismuasya.github.io/linky",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
